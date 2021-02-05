@@ -7,7 +7,7 @@ The website is a landing page for the personal portfolio I am working on.
 
 What's included:
 - Responsive layout for mobile, tablet, and larger screens. 
-- hover effects for links
+- Hover effects for links
 - Links to resume and hw part 2
 
 What's not included:
