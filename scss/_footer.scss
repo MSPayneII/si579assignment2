@@ -1,0 +1,27 @@
+.footer {
+    font-size: $font-reg;
+    color: #fff;
+
+
+    &__social {
+        margin: 1rem;
+        a {
+            display: inline-block;
+            height: 1.25rem;
+
+            svg path {
+                transition: fill 150ms ease-in-out;
+            }
+
+            &:hover svg path {
+                fill: $orange;
+            }
+        }
+        
+        a:not(:last-child) {
+            margin-right: 1rem;
+        }
+
+
+    }
+}
